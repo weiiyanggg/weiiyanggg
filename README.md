@@ -1,4 +1,7 @@
-<h1 align="center">Hey, I’m Wei Yang! <img src="https://github.com/user-attachments/assets/f8ee8000-4389-4b68-80f9-58782ba1c6a4" alt="Image" width="200"/> </h1>
+<div align="center">
+<!--   <img src="https://images.app.goo.gl/eJ3kx84oETvLQdgn9"/> -->
+  <h1 align="center">Hey, I’m Wei Yang! </h1>
+</div>
 
 # About Me:
 - Currently: Year 3, Computer Science and Design, SUTD
