@@ -1,4 +1,4 @@
-<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="250" align="right"/>
+<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="264" align="right"/>
 <h2 align="center">Hey, I’m Wei Yang!</h2>
 
 <h2 align="center">About Me:</h2>
@@ -24,7 +24,7 @@
 </li>
 </div>
 
-<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="250" align="right"/>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="264" align="right"/>
 <h2 align="center">Projects:</h2>
 <p align="center">
   <a href="https://github.com/p-ineapple/Modulus">
