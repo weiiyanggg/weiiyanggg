@@ -1,7 +1,7 @@
-<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="264" align="right"/>
+<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="320" align="right"/>
 <h2 align="center">Hey, I’m Wei Yang!</h2>
 
-<h2 align="center">About Me:</h2>
+<h3 align="center">About Me:</h3>
 <div align="center">
 <li>
 <b>Currently:</b> Year 3, Computer Science, SUTD
@@ -14,7 +14,7 @@
 </li>
 </div>
 
-<h2 align="center">Languages:</h2>
+<h3 align="center">Languages:</h3>
 <div align="center">
 <li>
 <b>Proficient:</b> Java | Python
@@ -24,15 +24,15 @@
 </li>
 </div>
 
-<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="264" align="right"/>
-<h2 align="center">Projects:</h2>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="320" align="right"/>
+<h3 align="center">Projects:</h3>
 <p align="center">
   <a href="https://github.com/p-ineapple/Modulus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus" />
   </a>
 </p>
 
-<h2 align="center">References:</h2>
+<h3 align="center">References:</h3>
 https://www.reddit.com/r/Genshin_Impact/comments/vqeb61/i_animated_hi_tao/
 
 <!---
