@@ -12,9 +12,6 @@
 <li>
 <b>Studying:</b> Database Systems, Algorithms
 </li>
-<li>
-<b>Contact:</b> 
-</li>
 </div>
 
 <img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="200" align="right"/>
