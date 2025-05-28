@@ -1,13 +1,11 @@
-<div align="center">
-<!--   <img src="https://images.app.goo.gl/eJ3kx84oETvLQdgn9"/> -->
-  <h1 align="center">Hey, I’m Wei Yang! </h1>
-</div>
+<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="250" align="right"/>
+<h2 align="center">Hey, I’m Wei Yang! </h2>
 
-# About Me:
+## About Me:
 - Currently: Year 3, Computer Science and Design, SUTD
 - Hobbies: 🖌️ Art, 🎮 Gaming, & 📺 Anime
 
-# Languages:
+## Languages:
 
 
 <!---
