@@ -25,14 +25,14 @@
 </li>
 </div>
 
-<h3 align="center">Projects:</h3>
+<h2 align="center">Projects:</h2>
 <p align="center">
   <a href="https://github.com/p-ineapple/Modulus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus" />
   </a>
 </p>
 
-<h3 align="center">References:</h3>
+<h2 align="center">References:</h2>
 https://www.reddit.com/r/Genshin_Impact/comments/vqeb61/i_animated_hi_tao/
 
 <!---
