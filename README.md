@@ -29,6 +29,7 @@
   <a href="https://github.com/p-ineapple/Modulus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula" />
   </a>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/0abd5d620bff3753a5390cc73ea0af2d_2405401497130303599.gif" width="150" align="left"/>
   <a href="https://github.com/weiiyanggg/decidefood">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiiyanggg&repo=decidefood&theme=dracula" />
   </a>
