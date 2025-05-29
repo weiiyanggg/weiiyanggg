@@ -1,4 +1,4 @@
-<img src="https://github.com/weiiyanggg/weiiyanggg/blob/main/hello.gif" width="200" align="right"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/068/563/944/original/jay-lee-yap.gif?1698138837" width="200" align="right"/>
 <h2 align="center">Hey, I’m Wei Yang!</h2>
 
 <h2 align="center">About Me:</h2>
@@ -28,12 +28,9 @@
 <h2 align="center">Projects:</h2>
 <p align="center">
   <a href="https://github.com/p-ineapple/Modulus">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula&cache_bust=1" />
   </a>
 </p>
-
-<h2 align="center">References:</h2>
-https://www.reddit.com/r/Genshin_Impact/comments/vqeb61/i_animated_hi_tao/
 
 <!---
 weiiyanggg/weiiyanggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
