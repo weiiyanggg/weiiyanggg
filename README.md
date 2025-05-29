@@ -27,10 +27,10 @@
 <h2 align="center">Projects:</h2>
 <img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="150" align="left"/>
   <a href="https://github.com/p-ineapple/Modulus">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula&cache_bust=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula" />
   </a>
   <a href="https://github.com/weiiyanggg/decidefood">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiiyanggg&repo=decidefood&theme=dracula&cache_bust=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weiiyanggg&repo=decidefood&theme=dracula" />
   </a>
 </div>
 
