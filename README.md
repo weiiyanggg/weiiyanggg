@@ -18,6 +18,9 @@
 <li>
 <b>Learning:</b> JavaScript | TypeScript | C 
 </li>
+<li>
+<b>Contact:</b> @weiiyanggg on Telegram
+</li>
 </div>
 
 <div align="center">
