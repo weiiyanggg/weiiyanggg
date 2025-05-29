@@ -1,8 +1,8 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/068/563/944/original/jay-lee-yap.gif?1698138837" width="200" align="right"/>
 <h2 align="center">Hey, I’m Wei Yang!</h2>
 
 <h2 align="center">About Me:</h2>
 <div align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/068/563/944/original/jay-lee-yap.gif?1698138837" width="150" align="right"/>
 <li>
 <b>Currently:</b> Year 3, Computer Science, SUTD
 </li>
@@ -12,11 +12,6 @@
 <li>
 <b>Studying:</b> Database Systems, Algorithms
 </li>
-</div>
-
-<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="200" align="right"/>
-<h2 align="center">Languages:</h2>
-<div align="center">
 <li>
 <b>Proficient:</b> Java | Python
 </li>
@@ -26,6 +21,7 @@
 </div>
 
 <h2 align="center">Projects:</h2>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2025/03/11/431087275/c62313fe389553ab85a77572486bede3_5180543877831079191.gif" width="150" align="right"/>
 <p align="center">
   <a href="https://github.com/p-ineapple/Modulus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-ineapple&repo=Modulus&theme=dracula&cache_bust=1" />
